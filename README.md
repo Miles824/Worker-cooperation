@@ -1,2 +1,1 @@
-# Worker-cooperation
-A website for services and marketing
+This place is fun 
